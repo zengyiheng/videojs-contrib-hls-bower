@@ -15,7 +15,7 @@
     "plugin"
   ],
   "dependencies": {
-    "videojs": ">=5.8"
+    "videojs": "~7.14.0"
   },
   "authors": [
     "mohessaido <mohammed.tr@zadgroup.net>"
